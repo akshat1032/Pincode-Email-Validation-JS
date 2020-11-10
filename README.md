@@ -7,3 +7,5 @@
 ###### UC_2 Validate pincode, no special character or alphabet at the beginning
 
 ###### UC_3 Validate pincode, no special character or alphabet at the end
+
+###### UC_4 Validate pincode, blank space in between
