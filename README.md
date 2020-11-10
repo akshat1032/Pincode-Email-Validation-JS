@@ -13,3 +13,5 @@
 ###### UC_5 Validate email, first mandatory part
 
 ###### UC_6 Validate email, second mandatory part
+
+###### UC_7 Validate email, third mandatory part
