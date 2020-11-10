@@ -1,7 +1,7 @@
-let emailExpression = RegExp('^(abc)');
-let sampleMandatory1 = "abc.xyz@bridgelabz.co.in";
+let emailExpression = RegExp('^[a-z]{3,}?(@[a-z]{2,})$');
+let sampleMandatory1 = "abc@bridgelabz";
 
-// UC_5 Validate email, first mandatory part
+// UC_6 Validate email, second mandatory part
 isEmailValid1(sampleMandatory1);
 
 function isEmailValid1(sample){

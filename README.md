@@ -11,3 +11,5 @@
 ###### UC_4 Validate pincode, blank space in between
 
 ###### UC_5 Validate email, first mandatory part
+
+###### UC_6 Validate email, second mandatory part
